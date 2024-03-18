@@ -1,0 +1,1 @@
+String moviesUrl = 'assets/mock_data/movies.json';
